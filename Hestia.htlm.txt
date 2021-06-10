@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Hestia</title>
+</head>
+
+<body background="Hestia.jpg">
+<p> <fontface="Courier New"> <Font color= "EDE2EF"<font size=10>Hestia</font> </p>
+
+<Font color= " ADD8E6">Hestia fue la primera deidad en ser devorada por su padre Cronos al momento de su nacimiento, su hermano menor Zeus fue el responsable de rescatarla y posteriormente fue cortejada por Apolo y Poseidón, pero no aceptó las intenciones de ninguno de los dos, por tanto juró ante la cabeza de su hermano Zeus que es su voluntad la de quedarse virgen por toda la eternidad, ante esta decisión, Zeus le concede el don de la pureza y de ser la guía espiritual de todas las familias y del hogar.
+
+<blockquote>A Hestia no se le conoce ningún tipo de conflicto con otras deidades, como ocurre frecuentemente entre los dioses griegos.</blockquote>
+
+
+
+
+
+
+
+</body>
+</html>
